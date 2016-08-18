@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="web_client_id">162335006470-nvvtnvjb59h6v6o5dmljo3mr45ov1im9.apps.googleusercontent.com</string>
+    <string name="signed_in_fmt">خوش آمدید %s</string>
+</resources>
